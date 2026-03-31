@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "YOUR_TOKEN_HERE"  # Yahan apna token paste karna
+BOT_TOKEN = "8710599158:AAFQHwfG_JVhCxIohVO1Gafnpx82I_rr2K0" 
 GROUP_LINK = "https://t.me/+R_UpvvhNyQw1NDQ9"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
